@@ -1,2 +1,4 @@
 # -DSA-Assignment
-DSA Lab Assignment (Saad Saeed Rana) 3rd Sem
+DSA Lab Assignment (Saad Saeed Rana) 
+MS ID: 37381
+Semester: Repeater (3rd)
